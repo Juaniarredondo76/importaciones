@@ -1,0 +1,6 @@
+/*
+let TOKEN ="Bearer BQBlWOVtatptO4BoszGq4e4vXe1QfZDirsGq93wdP8NTEffeQnJRsvGWtPwIoktoM9iPNZYKVCsbvbktyQMjZPquHnbn1vxm8Ml3R_uZr8Ts3TDwwu3IJrdKMVkMSvud1_koD5Roq2f9kQPQsKUzMenHfvQ5bTzJmgo"
+*/
+
+//exportando un token
+export let TOKEN ="Bearer BQBlWOVtatptO4BoszGq4e4vXe1QfZDirsGq93wdP8NTEffeQnJRsvGWtPwIoktoM9iPNZYKVCsbvbktyQMjZPquHnbn1vxm8Ml3R_uZr8Ts3TDwwu3IJrdKMVkMSvud1_koD5Roq2f9kQPQsKUzMenHfvQ5bTzJmgo"
